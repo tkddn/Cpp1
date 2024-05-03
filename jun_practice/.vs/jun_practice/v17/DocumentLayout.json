@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\qhdsa\\OneDrive\\\uBB38\uC11C\\jun_practice_c\u002B\u002B\\jun_practice\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E2D5ACDB-154F-41CB-A557-43F534823111}|jun_practice\\jun_practice.vcxproj|C:\\Users\\qhdsa\\OneDrive\\\uBB38\uC11C\\jun_practice_c\u002B\u002B\\jun_practice\\jun_practice\\practice_jun.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{E2D5ACDB-154F-41CB-A557-43F534823111}|jun_practice\\jun_practice.vcxproj|solutionrelative:jun_practice\\practice_jun.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "practice_jun.cpp",
+              "DocumentMoniker": "C:\\Users\\qhdsa\\OneDrive\\\uBB38\uC11C\\jun_practice_c\u002B\u002B\\jun_practice\\jun_practice\\practice_jun.cpp",
+              "RelativeDocumentMoniker": "jun_practice\\practice_jun.cpp",
+              "ToolTip": "C:\\Users\\qhdsa\\OneDrive\\\uBB38\uC11C\\jun_practice_c\u002B\u002B\\jun_practice\\jun_practice\\practice_jun.cpp",
+              "RelativeToolTip": "jun_practice\\practice_jun.cpp",
+              "ViewState": "AQIAAMMAAAAAAAAAAAAAANEAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-03-16T08:12:07.003Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
